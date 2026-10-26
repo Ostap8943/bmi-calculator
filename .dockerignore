@@ -1,0 +1,8 @@
+node_modules
+.npm-cache
+.docker-local
+.git
+.github
+test
+*.log
+.env

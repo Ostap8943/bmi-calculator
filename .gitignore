@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+.docker-local/
+coverage/
+playwright-report/
+test-results/
+.env
+*.log
+.DS_Store
